@@ -4,7 +4,9 @@
 <br>
 💼 software engineer apprentice at Aïkku
 
-<hr>
+## 🔍 Internship search
+
+I'm seeking an internship abroad in computer science, between July and August 2027 as part of my degree program.
 
 ## 🛠️ Tech Stack
 
