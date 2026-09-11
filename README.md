@@ -16,7 +16,7 @@ I'm seeking an internship abroad in computer science, between July and August 20
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Golang_(Notions)-336791?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python_(Notions)-yellow?style=flat-square&logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python_(Notions)-F7DF1E?style=flat-square&logo=python&logoColor=black)
 
 ### Frameworks
 ![RubyOnRails](https://img.shields.io/badge/Ruby_On_Rails-red?style=flat-square&logo=rubyonrails&logoColor=white)
@@ -36,9 +36,8 @@ I'm seeking an internship abroad in computer science, between July and August 20
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Tools
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F05032?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### IDEs
 ![RUBY_MINE](https://img.shields.io/badge/Ruby_Mine-red?style=flat-square&logo=rubymine&logoColor=white)
