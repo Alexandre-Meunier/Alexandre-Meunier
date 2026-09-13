@@ -36,7 +36,7 @@ I'm seeking an internship abroad in computer science, between July and August 20
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### Tools
-![GitHub Project](https://img.shields.io/badge/GitHub_Actions-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Project](https://img.shields.io/badge/GitHub_Projects-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ### IDEs
